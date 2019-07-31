@@ -1,13 +1,9 @@
-# unsplash-clone
-This app uses Unsplash API to create a mini unsplash clone using vue js
-
 # unsplash
 This app uses Unsplash API to create a mini unsplash clone using vue js
 
 ## Project setup
 ```
-- cd unsplash
-- npm install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
